@@ -48,3 +48,5 @@ git pull           # Atualiza o repositório local com mudanças remotas
 ---
 
 TESTE DE MUDANÇA DE VERSÃO
+
+TESTE DE NOVO PARAGRAFO
